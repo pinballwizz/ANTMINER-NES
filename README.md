@@ -1,4 +1,4 @@
-# ANTMINER - NES
+# ANTMINER - NES Console
 ![Model](ANTMINER-NES.jpg)
 ![Model](ANTMINER-NES1.jpg)
 
