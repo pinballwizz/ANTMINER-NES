@@ -1,4 +1,4 @@
-NES for the ANTMINER S9 ZYNQ-7010 FPGA Board. Pinballwiz 2026
+NES Console for the ANTMINER S9 ZYNQ-7010 FPGA Board. Pinballwiz 2026
 Code from Brian Bennett.
 
 Notes:
@@ -6,7 +6,7 @@ Setup for keyboard controls in Upright mode (5 = Coin)(1 = Start P1)(2 = Start P
 Consult the Docs Folder for Information regarding peripheral connections and schematics.
 
 Build:
-* Obtain NES roms and use included Nesdbg Utility to load to ANTMINER S9 Borad via serial.
+* Obtain NES roms and use included Nesdbg Utility to load to ANTMINER S9 Board via serial.
 * Open the ANTMINER-NES project file using Vivado (v2022.2 or silimar is recommended)
 * Compile the project updating filepaths to source files as necessary.
 * If not using Zynq Arcade Platform connect JTAG Programmer and program ANTMINER S9 Board.
